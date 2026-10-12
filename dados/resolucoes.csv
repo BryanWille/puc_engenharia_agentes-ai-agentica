@@ -1,0 +1,6 @@
+resolucao_id,reclamacao_id,data_decisao,decisao,fundamento,acao_recomendada,prazo_cumprimento_dias,responsavel,status
+RES001,REC001,2026-09-28,PROCEDENTE,Produto apresentou defeito no prazo legal de 30 dias; consumidor pode exigir substituição.,Solicitar substituição imediata do produto ou restituição.,10,Agente de Consumidor,PROPOSTA
+RES002,REC002,2026-09-15,PARCIALMENTE_PROCEDENTE,Falha recorrente no serviço; empresa deve comprovar atendimento técnico.,Abrir ordem de serviço formal e definir prazo para reparo.,5,Agente de Consumidor,EM_ANDAMENTO
+RES003,REC003,2026-09-30,PROCEDENTE,"Atraso superior ao informado, sem comunicação prévia adequada.",Solicitar compensação ou desconto proporcional.,15,Agente de Consumidor,PROPOSTA
+RES004,REC004,2026-09-18,PROCEDENTE,Cancelamento dentro do prazo legal; reembolso deve ser efetuado.,Exigir reembolso integral em até 7 dias.,7,Agente de Consumidor,PROPOSTA
+RES005,REC005,,INCONCLUSIVO,Faltam fotos e descrição dos itens recebidos para concluir a análise.,Solicitar documentos complementares ao consumidor.,3,Agente de Consumidor,AGUARDANDO_DOCUMENTOS

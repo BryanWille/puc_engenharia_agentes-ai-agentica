@@ -1,0 +1,7 @@
+interacao_id,reclamacao_id,data_hora,origem,autor,canal,texto,anexo
+INT001,REC001,2026-09-01T10:12:00,CONSUMIDOR,Ana Souza,WhatsApp,Meu celular apresentou defeito na tela após 20 dias. Quero a troca.,foto_tela.jpg
+INT002,REC001,2026-09-02T09:30:00,EMPRESA,Atendente EletroMax,WhatsApp,Informamos que o aparelho deve ser enviado à assistência técnica autorizada.,
+INT003,REC001,2026-09-03T18:45:00,CONSUMIDOR,Ana Souza,WhatsApp,O Código de Defesa do Consumidor prevê troca em até 30 dias. Solicito posição formal.,
+INT004,REC002,2026-09-10T08:00:00,CONSUMIDOR,Bruno Lima,E-mail,A internet cai todos os dias. Já reiniciei o modem e o problema persiste.,
+INT005,REC002,2026-09-11T14:20:00,EMPRESA,Suporte Conecta,E-mail,Abrimos um chamado técnico. Em até 48 horas um técnico entrará em contato.,
+INT006,REC004,2026-09-12T11:00:00,CONSUMIDOR,Diego Alves,Telefone,Cancelei o pacote dentro do prazo e ainda não recebi o reembolso.,comprovante_cancelamento.pdf

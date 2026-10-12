@@ -1,0 +1,6 @@
+pedido_id,consumidor_id,empresa_id,produto_id,data_compra,valor_total_brl,forma_pagamento,status_pedido,data_entrega_prevista,data_entrega_real,garantia_ate
+PED001,C001,E001,P001,2026-08-05,2499.0,Cartão de crédito,ENTREGUE,2026-08-12,2026-08-11,2027-08-11
+PED002,C002,E002,P003,2026-06-01,99.9,Cartão de crédito,ATIVO,,,
+PED003,C003,E003,P004,2026-07-20,1899.0,Pix,ENTREGUE,2026-08-05,2026-08-20,2027-02-20
+PED004,C004,E004,P005,2026-09-01,3200.0,Cartão de crédito,CANCELADO,,,
+PED005,C005,E005,P006,2026-09-15,249.9,Pix,ENTREGUE,2026-09-18,2026-09-17,

@@ -1,0 +1,7 @@
+reclamacao_id,consumidor_id,empresa_id,pedido_id,data_abertura,canal_entrada,categoria,subcategoria,descricao,valor_envolvido_brl,status,prioridade,prazo_resposta_dias
+REC001,C001,E001,PED001,2026-09-01,WhatsApp,PRODUTO_DEFEITUOSO,Defeito após compra,"O smartphone apresentou falha na tela após 20 dias de uso. A loja informou que apenas envia para assistência, mas o consumidor solicita troca.",2499.0,ABERTA,ALTA,10
+REC002,C002,E002,PED002,2026-09-10,E-mail,SERVICO_INSTAVEL,Queda frequente de conexão,"A internet apresenta quedas diárias desde a instalação. O SAC informou que abriria chamado, mas não houve retorno.",99.9,EM_ANALISE,MEDIA,5
+REC003,C003,E003,PED003,2026-09-05,Formulário web,ATRASO_ENTREGA,Entrega fora do prazo,"O sofá foi entregue 15 dias após o prazo combinado, sem aviso prévio.",0.0,ABERTA,MEDIA,15
+REC004,C004,E004,PED004,2026-09-12,Telefone,COBRANCA_INDEVIDA,Cancelamento não reembolsado,"O consumidor cancelou o pacote dentro do prazo legal, mas o valor não foi reembolsado.",3200.0,ABERTA,ALTA,7
+REC005,C005,E005,PED005,2026-09-20,WhatsApp,PRODUTO_DIVERGENTE,Produto diferente do anunciado,A cesta recebida continha itens diferentes da descrição do site.,249.9,AGUARDANDO_DOCUMENTOS,BAIXA,3
+REC006,C001,E001,PED001,2026-09-25,E-mail,ATENDIMENTO_INADEQUADO,Falta de retorno do SAC,"Após três contatos, não houve resposta formal sobre a troca do produto.",0.0,EM_ANALISE,MEDIA,10

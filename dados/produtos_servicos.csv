@@ -1,0 +1,7 @@
+produto_id,empresa_id,nome,tipo,categoria,preco_unitario_brl,garantia_meses,descricao
+P001,E001,Smartphone Galaxy X20,PRODUTO,Celulares,2499.0,12,"Smartphone com tela de 6,5 polegadas e bateria de 5.000 mAh"
+P002,E001,Notebook UltraBook 14,PRODUTO,Informática,3899.0,12,"Notebook 14 polegadas, 16 GB RAM e SSD 512 GB"
+P003,E002,Plano Fibra 500 MB,SERVICO,Internet,99.9,0,Plano de internet fibra óptica de 500 MB
+P004,E003,Sofá Retrátil 3 Lugares,PRODUTO,Móveis,1899.0,6,Sofá retrátil em tecido resistente
+P005,E004,Pacote Nordeste 7 noites,SERVICO,Pacote turístico,3200.0,0,Pacote aéreo e hotel para sete noites
+P006,E005,Cesta Básica Premium,PRODUTO,Alimentos,249.9,0,Cesta com itens alimentícios selecionados

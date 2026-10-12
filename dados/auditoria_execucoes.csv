@@ -1,0 +1,5 @@
+execucao_id,reclamacao_id,passo,pensamento_resumo,ferramenta,argumentos_json,resultado_resumo,status,duracao_ms,erro
+EXE001,REC001,1,"Identificar consumidor, empresa e pedido relacionados à reclamação",consultar_reclamacao,"{""reclamacao_id"":""REC001""}",Reclamação encontrada; produto com garantia vigente,OK,180,
+EXE001,REC001,2,Verificar histórico de interações e evidências,consultar_interacoes,"{""reclamacao_id"":""REC001""}",Três interações; foto anexada,OK,120,
+EXE001,REC001,3,Consultar regra sobre vício do produto,consultar_base_conhecimento,"{""consulta"":""prazo reclamação vício produto durável""}",Prazo de 90 dias para produto durável,OK,240,
+EXE001,REC001,4,Registrar recomendação de troca,registrar_resolucao,"{""reclamacao_id"":""REC001"",""decisao"":""PROCEDENTE""}",Resolução registrada como PROPOSTA,OK,90,

@@ -1,0 +1,6 @@
+empresa_id,nome,cnpj_mascarado,setor,canal_sac,prazo_resposta_dias,status
+E001,Loja EletroMax,12.345.678/0001-**,Eletroeletrônicos,sac@eletromax.com.br,10,ATIVA
+E002,Conecta Telecom,23.456.789/0001-**,Telecomunicações,sac@conectatelecom.com.br,5,ATIVA
+E003,Casa & Lar Móveis,34.567.890/0001-**,Móveis e Eletrodomésticos,sac@casaelar.com.br,15,ATIVA
+E004,Turismo ViagemBrasil,45.678.901/0001-**,Turismo,sac@viagembrasil.com.br,7,ATIVA
+E005,Mercado Rápido,56.789.012/0001-**,Varejo alimentar,sac@mercadorapido.com.br,3,ATIVA

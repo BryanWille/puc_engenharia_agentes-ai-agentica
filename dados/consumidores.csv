@@ -1,0 +1,6 @@
+consumidor_id,nome,cpf_mascarado,email,telefone,cidade,estado,data_cadastro
+C001,Ana Souza,***.456.789-**,ana.souza@email.com,(31) 90000-0001,Belo Horizonte,MG,2025-01-10
+C002,Bruno Lima,***.123.456-**,bruno.lima@email.com,(11) 90000-0002,São Paulo,SP,2025-02-14
+C003,Carla Mendes,***.789.123-**,carla.mendes@email.com,(21) 90000-0003,Rio de Janeiro,RJ,2025-03-02
+C004,Diego Alves,***.321.654-**,diego.alves@email.com,(31) 90000-0004,Contagem,MG,2025-04-18
+C005,Elisa Rocha,***.654.321-**,elisa.rocha@email.com,(41) 90000-0005,Curitiba,PR,2025-05-25
