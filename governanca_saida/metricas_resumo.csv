@@ -1,0 +1,30 @@
+﻿métrica,valor
+Acurácia da decisão (exata),0.0
+Acurácia da decisão (aceitável),0.0
+Similaridade da ação vs. gabarito (0-1),
+Prazo aderente (±3 dias),
+Nota média do LLM-juiz (1-5),
+Fundamentação média (IDs rastreáveis),0.0
+Confiança operacional média,0.0
+Taxa de sucesso da tarefa,0.0
+Taxa de falha de execução,1.0
+Estabilidade da decisão entre repetições,
+Execuções com violação de guardrail de saída,0.0
+PII redigida (ocorrências),0
+PII residual na saída (ocorrências),0
+Schema inválido,9
+Taxa de escalonamento para humano,0.3333
+Escalonamento — precisão,0.3333
+Escalonamento — recall,0.3333
+Revisões humanas: aprovadas / ajustadas / rejeitadas,0 / 0 / 3
+Tokens médios por caso (entrada+saída),907.6667
+"Custo médio por caso (US$, estimado)",0.0014
+Custo total do sistema (US$),0.0126
+Custo total do LLM-juiz (US$),0.0
+Chamadas LLM por caso,0.5556
+Chamadas MCP por caso,0.0
+Chamadas A2A por caso,0.6667
+Interações totais por caso (LLM+MCP+A2A+humano),1.5556
+Latência p50 (s),0.006
+Latência p95 (s),45.9268
+Latência máxima (s),47.354

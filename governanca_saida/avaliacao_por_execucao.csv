@@ -1,0 +1,10 @@
+﻿reclamacao_id,rep,run_id,status_final,decisao_sistema,decisao_final,decisao_esperada,decisao_exata,decisao_aceitavel,similaridade_acao,prazo_aderente,juiz_media,custo_juiz_usd,falha,schema_ok,escalou,escalonar_esperado,sucesso_tarefa,confianca,fundamentacao,violacoes_saida,pii_redigida,pii_residual,hitl_acao,motivos_hitl,latencia_sistema_ms,llm_calls,tool_calls,a2a_calls,interacoes_total,tokens_in,tokens_out,custo_usd
+REC001,0,RUN-33eb1a5477,REJEITADA_POR_HUMANO,,,PROCEDENTE,False,False,,,,0.0,True,False,True,False,False,0.0,0.0,,0,0,REJEITAR,FALHA_EXECUCAO,43786,2,0,2,5,1437,1833,0.005014
+REC001,1,RUN-1b643ef9e9,REJEITADA_POR_HUMANO,,,PROCEDENTE,False,False,,,,0.0,True,False,True,False,False,0.0,0.0,,0,0,REJEITAR,FALHA_EXECUCAO,47354,2,0,2,5,1437,1397,0.003924
+REC002,0,RUN-8c0ee426bf,REJEITADA_POR_HUMANO,,,PARCIALMENTE_PROCEDENTE,False,False,,,,0.0,True,False,True,True,False,0.0,0.0,,0,0,REJEITAR,FALHA_EXECUCAO,32633,1,0,2,4,680,1385,0.003667
+REC003,0,RUN-40b8ead833,BLOQUEADO_GUARDRAIL,,,PROCEDENTE,False,False,,,,0.0,True,False,False,False,False,,,,0,0,,,4,0,0,0,0,0,0,0.0
+REC004,0,RUN-2fba5b5701,BLOQUEADO_GUARDRAIL,,,PROCEDENTE,False,False,,,,0.0,True,False,False,True,False,,,,0,0,,,5,0,0,0,0,0,0,0.0
+REC005,0,RUN-5ee5a28d9b,BLOQUEADO_GUARDRAIL,,,INCONCLUSIVO,False,False,,,,0.0,True,False,False,False,False,,,,0,0,,,6,0,0,0,0,0,0,0.0
+REC005,1,RUN-3433fcce59,BLOQUEADO_GUARDRAIL,,,INCONCLUSIVO,False,False,,,,0.0,True,False,False,False,False,,,,0,0,,,3,0,0,0,0,0,0,0.0
+REC006,0,RUN-532a5b5503,BLOQUEADO_GUARDRAIL,,,PARCIALMENTE_PROCEDENTE/PROCEDENTE,False,False,,,,0.0,True,False,False,True,False,,,,0,0,,,6,0,0,0,0,0,0,0.0
+REC999,0,RUN-2222af6486,BLOQUEADO_GUARDRAIL,,,INCONCLUSIVO,False,False,,,,0.0,True,False,False,False,False,,,,0,0,,,5,0,0,0,0,0,0,0.0
